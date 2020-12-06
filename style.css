@@ -1,0 +1,13 @@
+body{
+	background-image: url('images/stage.png');
+}
+
+.container{
+	width: 100%;
+	height: 600px;
+}
+
+#counters{
+	border: solid black 2px;
+	width: 70px;
+}
