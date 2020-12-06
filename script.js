@@ -73,7 +73,7 @@ function fly(direction){
 			}
 			break;
 		default:
-			console.log("erroer kan die kant niet op");
+			console.log("test");
 	}
 }
 
